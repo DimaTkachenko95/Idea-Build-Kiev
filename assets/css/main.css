@@ -2902,7 +2902,7 @@ input, select, textarea {
 		/* Main */
 
 			#main > section > .container {
-				padding: 4em 0 2em 0;
+				padding: 4em 2em 2em 2em;
 			}
 
 	}
@@ -3317,4 +3317,11 @@ input, select, textarea {
 
 .text{
 	margin: 0;
+}
+
+.phone{
+	text-decoration: none;
+}
+h4{
+	padding-bottom: 1em;
 }
