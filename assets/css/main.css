@@ -3326,3 +3326,7 @@ input, select, textarea {
 h4{
 	padding-bottom: 1em;
 }
+
+.card{
+	padding-top: 10px;
+}
