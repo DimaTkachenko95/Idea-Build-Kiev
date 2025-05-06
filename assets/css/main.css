@@ -3421,9 +3421,9 @@ h4{
 
 span {
 	display: inline-block;
-	height: 50px;
+	/*height: 50px;*/
 	font-family: 'Suranna', serif;
-	font-size: 34px;
+	/*font-size: 34px;*/
 }
 
 .product-price-btn button {
